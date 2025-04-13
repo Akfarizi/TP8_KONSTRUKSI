@@ -36,14 +36,11 @@ namespace tpmodul8_103022300078
                 pesan_diterima = "Anda dipersilahkan untuk masuk ke dalam gedung ini";
             }
         }
-
         public void UbahSatuan()
         {
             satuan_suhu = satuan_suhu == "celcius" ? "fahrenheit" : "celcius";
         }
     }
-
-
 }
 
 

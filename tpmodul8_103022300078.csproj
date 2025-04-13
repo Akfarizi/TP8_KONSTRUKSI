@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\AKBAR TELKOM\SEMESTER 4\KONSTRUKSI PL\PRAKTIKUM\tpmodul8_103022300078\tpmodul8_103022300078\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\AKBAR TELKOM\SEMESTER 4\KONSTRUKSI PL\PRAKTIKUM\tpmodul8_103022300078\tpmodul8_103022300078\.editorconfig" />
+  </ItemGroup>
+
 </Project>
